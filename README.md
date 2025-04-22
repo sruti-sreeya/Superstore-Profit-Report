@@ -14,7 +14,6 @@ To design a clean, interactive, and insight-rich Power BI dashboard that helps s
 
 - `Superstore Profit Report.pbix` – Main Power BI project file
 - `Sample - Superstore.csv` – Raw dataset used for analysis
-- *(Optional)* `Profit_Report_Screenshots.pdf` – Dashboard PDF export for preview
 
 ---
 
